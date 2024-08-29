@@ -1,1 +1,1 @@
-export const serverURL='http://localhost:3000'
+export const serverURL='https://media-app-server-epmu.onrender.com'
